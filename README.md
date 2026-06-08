@@ -153,13 +153,7 @@ The dataset contains information about:
 
 ## 👩‍💻 Author
 
-**Roshinipriya Saravanan**
-
-Aspiring Data Analyst | Power BI Developer | Data Visualization Enthusiast
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+**Haripriya Saravanan**
 
 ---
 

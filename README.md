@@ -1,4 +1,3 @@
-# student-placement-dashboard
 # Student Placement Dashboard
 
 ## Overview

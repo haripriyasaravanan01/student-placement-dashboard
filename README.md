@@ -18,9 +18,5 @@ This Power BI dashboard provides insights into student placement performance and
 - Excel / CSV
 - Data Visualization
 
-## Dashboard Preview
-
-![Dashboard](images/dashboard_screenshot.png)
-
 ## Author
-Roshinipriya Saravanan
+Haripriya Saravanan
